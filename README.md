@@ -2,7 +2,7 @@
 
 I'm Matthew.  This is my personal readme.  This documentation aims to help you get to know me and jump start our professional relationship.
 
-I sincerely appreciate any and all feedback, so if your experience with me differs from what you see here, or if there is something incomplete in this document, please feel free to open an [Issue]().
+I sincerely appreciate any and all feedback, so if your experience with me differs from what you see here, or if there is something incomplete in this document, please feel free to open an [Issue](https://github.com/matthewadowns/README/issues).
 
 ## About Me
 
